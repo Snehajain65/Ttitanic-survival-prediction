@@ -1,4 +1,4 @@
-# Ttitanic-survival-prediction
+# Titanic-survival-prediction
 My first repo.
 <br>
 Author - Sneha Jain
